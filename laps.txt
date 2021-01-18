@@ -1,0 +1,6 @@
+lenovo
+dell
+hp
+asus
+avita
+apple
